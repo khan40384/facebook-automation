@@ -1,4 +1,4 @@
-# facebook-automation
+# facebook-automation-puppeteer
 
 # Add a credential.json file just outside the root directory and specified three fields.
 
